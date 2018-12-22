@@ -8,7 +8,7 @@ An app that utilizes the Goodlge Maps activity
 ### App Walk-though
 
 
-<img src="https://github.com/tyrone8980/WaveLink/blob/master/mapsAvtivity.gif" width=200><br>
+<img src="https://github.com/SJDuro45/Google-Maps-Lab/blob/master/mapsAvtivity.gif" width=200><br>
 
 
 ## Required
